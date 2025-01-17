@@ -1,12 +1,14 @@
-function passwordChecker(password){
+
+
+function passwordChecker(motDePasse){
 
     //mdp vide
-    if(!password){
+    if(!motDePasse){
         return false;
     }
 
     //taille inférieur à 8
-    if(password.length <8){
+    if(motDePasse.length <8){
         return false;
     }
 
