@@ -1,0 +1,15 @@
+{
+  "name": "ipl-social",
+  "version": "1.0.0",
+  "description": "Examen de Sacha Croon pour Devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sacha Croon",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
