@@ -23,7 +23,3 @@ run: npm ci
 name: Run tests
 run: npm test
 
-    
-name: Pipeline Status
-  run: 
-    echo: "Pipeline completed successfully!"
