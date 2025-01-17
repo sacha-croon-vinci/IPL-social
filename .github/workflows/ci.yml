@@ -25,5 +25,5 @@ run: npm test
 
     
 name: Pipeline Status
-    run: |
-      echo "Pipeline completed successfully!"
+    run: 
+    echo: "Pipeline completed successfully!"
